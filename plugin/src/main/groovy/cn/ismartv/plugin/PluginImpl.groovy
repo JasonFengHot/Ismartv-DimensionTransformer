@@ -27,6 +27,10 @@ public class PluginImpl implements Plugin<Project> {
     }
 
     public void doTest() {
+        doTransfer(300);
+        doTransfer(400);
+        doTransfer(540);
+        doTransfer(800);
         doTransfer(240);
         doTransfer(360);
         doTransfer(480);

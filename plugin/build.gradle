@@ -10,7 +10,7 @@ def projectName = "ismartv_plugin"
 def groupId = "cn.ismartv.plugin"
 def siteUrl = 'git@github.com:JasonFengIce/videocache.git'
 def gitUrl = 'git@github.com:JasonFengIce/videocache.gitt'
-version='1.0.1'
+version='1.0.2'
 group = groupId
 
 install {
